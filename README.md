@@ -6,10 +6,9 @@
 
 **Full-Stack Software Engineer** &nbsp;·&nbsp; Addis Ababa, Ethiopia
 
-Building robust, scalable software — from low-level systems to modern web apps.
+Building robust, scalable software — from low-level systems to modern web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avel0a)
 
 </div>
@@ -22,36 +21,34 @@ Building robust, scalable software — from low-level systems to modern web apps
 name: Abel Amare
 location: Addis Ababa, Ethiopia
 role: Full-Stack Software Engineer
-education: ALX Software Engineering Program
+background: ALX Software Engineering Program
 
-currently:
-  building: scalable full-stack applications
-  learning: system design & cloud architecture
-  open_to: collaboration & opportunities
+focus:
+  - Scalable Web Applications & APIs
+  - Low-Level Systems & Algorithm Design
+  - DevOps, Linux Administration & Automation
+status: Open to collaboration & engineering roles
 ```
 
 ---
 
 ### 🛠️ &nbsp;Tech Stack
 
-**Systems & Low-Level**
+**Systems & Languages**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Web & Application**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -61,7 +58,7 @@ currently:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Data & Databases**
+**Databases & Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -69,7 +66,7 @@ currently:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud, DevOps & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -81,12 +78,25 @@ currently:
 
 ---
 
+### 🚀 &nbsp;Featured Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🏢 &nbsp;[**Kora_apartment**](https://github.com/avel0a/Kora_apartment) | Modern apartment booking and property management web platform | `TypeScript` `Web` `UI/UX` |
+| 🏡 &nbsp;[**AirBnB_clone_v4**](https://github.com/avel0a/AirBnB_clone_v4) | Full-stack Airbnb clone: console CLI, RESTful API, and dynamic web rendering | `Python` `Flask` `MySQL` `REST API` |
+| ⚡ &nbsp;[**alx-low_level_programming**](https://github.com/avel0a/alx-low_level_programming) | Systems programming in C: memory allocation, pointers, and data structures | `C` `Algorithms` `Unix` `Pointers` |
+| 🌲 &nbsp;[**binary_trees**](https://github.com/avel0a/binary_trees) | Binary search trees, AVL trees, and traversal algorithms from scratch | `C` `Data Structures` `Algorithms` |
+| 🛠️ &nbsp;[**alx-system_engineering-devops**](https://github.com/avel0a/alx-system_engineering-devops) | DevOps automation: Linux sysadmin, Bash scripting, networking, and server config | `Bash` `Linux` `DevOps` `SysAdmin` |
+| 💰 &nbsp;[**BUIDget**](https://github.com/avel0a/BUIDget) | Personal budget and financial tracking application | `TypeScript` `Frontend` |
+
+---
+
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=avel0a&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=avel0a&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=avel0a&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  &nbsp;
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=avel0a&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 <br/>
@@ -99,7 +109,7 @@ currently:
 
 <div align="center">
 
-*Open to opportunities and collaborations — let's build something great together.*
+*Open to opportunities and collaborations — feel free to connect!*
 
 ![](https://komarev.com/ghpvc/?username=avel0a&color=1a1b27&style=flat-square&label=Profile+Views)
 
